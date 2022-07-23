@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @doniaskima
-- 👀 I’m interested in coding,doing projects
-- 🌱 I’m currently learning html,css,js,C,python
+- 👀 I’m interested in coding , doing projects
+- 🌱 I’m currently learning reactjs and redux .
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me EMail:doniaskima344@gmail.com ,Twitter:donia344
+- 📫 How to reach me EMail:doniaskima344@gmail.com .
 
 
 <!---
