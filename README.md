@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Donia Skima</h1>
 <h3 align="center">Productivity addict and a passionate learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doniaskima&label=Profile%20views&color=0e75b6&style=flat" alt="doniaskima" /> </p>
 
 - 🌱 I’m currently learning **reactjs,redux**
 
