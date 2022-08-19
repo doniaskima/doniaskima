@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **reactjs,redux**
 
-- 📝 I regularly write articles on donia-skima
+- 📝 I regularly write articles on [donia-skima](https://www.linkedin.com/in/donia-skima/)
 
 - 📫 How to reach me **You can shoot me an email at doniaskima344@gmail.com! I'll try to respond as soon as I can.**
 
