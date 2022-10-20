@@ -10,6 +10,10 @@
 
 - ⚡ Fun fact **i like coffee and maybe 3 people**
 
+- ✨ I'm looking forward to learn great things.
+
+- 🌱 Always looking for collaborators.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/doniaskima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doniaskima" height="30" width="40" /></a>
