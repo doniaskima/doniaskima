@@ -2,7 +2,7 @@
 <h3 align="center">Productivity addict and a passionate learner</h3>
 
 
-- 🌱 I’m currently learning **reactjs,redux**
+- 🌱 I’m currently learning **Typescript**
 
 - 📝 I regularly write articles on [donia-skima](https://www.linkedin.com/in/donia-skima/)
 
