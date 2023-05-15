@@ -10,6 +10,10 @@
 
 - ⚡ Fun fact **i like coffee and maybe 3 people**
 
+- 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+
+- ✍️  In my free time, I pursue Blog Writing n reading as hobbies/side hustles.
+
 - ✨ I'm looking forward to learn great things.
 
 - 🌱 Always looking for collaborators.
