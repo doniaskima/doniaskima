@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Donia Skima</h1>
 <h3 align="center">Productivity addict and a passionate learner</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=doniaskima&color=ff69b4)
 
-- 🌱 I’m currently learning **Docker**
+
+- 🌱 I’m currently learning **Docker Typescript**
 
 - 📝 I regularly write articles on [donia-skima](https://www.linkedin.com/in/donia-skima/)
 
