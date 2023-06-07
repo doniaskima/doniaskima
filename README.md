@@ -20,7 +20,7 @@
 
 - 🌱 Always looking for collaborators.
 
-![skills](https://skillicons.dev/icons?i=html,css,js,C,C++,ts,react,redux,materialui,tailwind,nodejs,express,bash,git,vscode&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=html,css,js,c,c++,ts,react,redux,materialui,tailwind,nodejs,express,bash,git,vscode&theme=dark&perline=15)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=doniaskima&hide=contribs,prs)
 
