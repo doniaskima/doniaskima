@@ -27,8 +27,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=doniaskima&hide=contribs,prs)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniaskima&langs_count=8)](https://github.com/doniaskima)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
