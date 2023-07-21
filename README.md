@@ -38,10 +38,8 @@
 
 
 <h3 align="left">The Commit-Eating Snake Strikes Again: Battling Version Control Challenges  🐍</h3>
-
 <!---
 doniaskima/doniaskima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ![snake gif](https://github.com/doniaskima/doniaskima/blob/output/github-contribution-grid-snake.gif)
