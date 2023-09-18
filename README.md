@@ -36,11 +36,3 @@
 <a href="https://instagram.com/do.nia2240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="do.nia2240" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">The Commit-Eating Snake Strikes Again: Battling Version Control Challenges  🐍</h3>
-<!---
-doniaskima/doniaskima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![snake gif](https://github.com/doniaskima/doniaskima/blob/output/github-contribution-grid-snake.gif)
