@@ -36,3 +36,9 @@
 <a href="https://instagram.com/do.nia2240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="do.nia2240" height="30" width="40" /></a>
 </p>
 
+
+🔧 **Languages:**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniaskima&layout=compact)
+
+
