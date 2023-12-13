@@ -3,9 +3,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=doniaskima&color=ff69b4)
 
-
 ![GitHub Longest Streak](https://img.shields.io/endpoint?url=https://github-readme-streak-stats.herokuapp.com/doniaskima)
 
+![GitHub Contributions](https://img.shields.io/github/last-commit/doniaskima/doniaskima?style=flat)
 
 - 🌱 I’m currently learning **Docker Nestjs**
 
@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **You can shoot me an email at doniaskima344@gmail.com! I'll try to respond as soon as I can.**
 
-- ⚡ Fun fact **i like coffee and maybe 3 people**
+- ⚡ Fun fact **I like coffee and maybe 3 people**
 
-- 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+- 🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 
-- ✍️  In my free time, I pursue Blog Writing n reading as hobbies/side hustles.
+- ✍️ In my free time, I pursue Blog Writing and reading as hobbies/side hustles.
 
-- ✨ I'm looking forward to learn great things.
+- ✨ I'm looking forward to learning great things.
 
 - 🌱 Always looking for collaborators.
 
@@ -29,8 +29,6 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=doniaskima&hide=contribs,prs)
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/doniaskima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doniaskima" height="30" width="40" /></a>
@@ -39,9 +37,6 @@
 <a href="https://instagram.com/do.nia2240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="do.nia2240" height="30" width="40" /></a>
 </p>
 
-
 🔧 **Languages:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniaskima&layout=compact)
-
-
