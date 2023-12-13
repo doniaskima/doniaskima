@@ -3,7 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=doniaskima&color=ff69b4)
 
-![GitHub Longest Streak](https://img.shields.io/endpoint?url=https://github-readme-streak-stats.herokuapp.com/doniaskima)
 
 ![GitHub Contributions](https://img.shields.io/github/last-commit/doniaskima/doniaskima?style=flat)
 
