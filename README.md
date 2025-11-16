@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Donia 👋</h1>
-<h3 align="center">Full-stack TypeScript dev · Productivity nerd · Always shipping small tools</h3>
+<h3 align="center">Full-stack TypeScript dev · ERP customizations (Haufe X360 / Acumatica) · Integrations</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=doniaskima&color=ff69b4" alt="profile views" />
@@ -10,13 +10,14 @@
 
 ### 🧩 About me
 
-- 👩‍💻 Software developer working mostly with **TypeScript, React, Node.js** and modern web tooling.
-- 🛠 I like building **tiny dev tools**, internal dashboards, and integrations that remove busywork.
-- 🧠 Currently deepening my skills in **DevOps, system design, and cloud architecture**.
-- ✍️ I write from time to time on [LinkedIn](https://www.linkedin.com/in/donia-skima/) about dev, productivity and freelancing.
+- 👩‍💻 ERP & software developer working mostly with **TypeScript, React, Node.js** and **Haufe X360 / Acumatica**.
+- 🧾 I deliver **customizations and integrations** around X360/Acumatica (APIs, webhooks, internal tools).
+- 🛠 I like building **small dev tools**, internal dashboards, and automations that remove busywork.
+- 🌍 Most of what I want in life is to **sit with strangers from different countries, in different places** — travel, hikes, new people, new cities. That’s the fuel.
+- ✍️ I write from time to time on [LinkedIn](https://www.linkedin.com/in/donia-skima/) about dev, workflow, and freelancing.
 - ☕ Fun fact: **I like coffee and maybe 3 people.**
 
-If you’re into dev tooling, integrations, or automation, I’m usually happy to chat or collaborate.
+If you’re into ERP, dev tooling, integrations, or automation, I’m usually happy to chat or collaborate.
 
 ---
 
